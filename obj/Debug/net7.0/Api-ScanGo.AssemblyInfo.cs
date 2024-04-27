@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Api-ScanGo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33da36e6aa1d5a4f14aa63e8843501637585c77b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Api-ScanGo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Api-ScanGo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
